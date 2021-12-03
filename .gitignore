@@ -1,5 +1,4 @@
 #ignore files of these types
-*.png
 *.html
 *.rrd
 *.tif
