@@ -1,0 +1,12 @@
+#ignore files of these types
+*.png
+*.html
+*.rrd
+*.tif
+*.jp2
+*.j2w
+*.met
+*.aux
+*.log
+*.pyc
+*.jpg
